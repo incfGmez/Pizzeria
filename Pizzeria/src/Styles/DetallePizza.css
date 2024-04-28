@@ -1,0 +1,15 @@
+.container-detalles{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.pizza-info{
+    height: 250px;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.volver-menu{
+    text-decoration: none;
+    margin-left: 10px;
+}

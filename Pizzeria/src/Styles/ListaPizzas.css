@@ -1,0 +1,33 @@
+.pizza-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .pizza-card {
+    width: 250px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .pizza-card img {
+    width: 100%;
+    border-radius: 5px;
+  }
+  
+  .ingredients {
+    margin-bottom: 10px;
+  }
+  
+  .ingredients ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
